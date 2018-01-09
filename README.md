@@ -1,5 +1,5 @@
 # cpp_zappy
-This repository contains code for the "cpp_zappy" EPITECH project. It's used as a coding example for a potential Internship with Cyanide Studio
+This repository contains code for the "cpp_zappy" EPITECH project. It's used as a coding example for a potential Internship with Ankama Games
 
 Ce projet à pour but de faire fonctionner en synchronisation trois éléments :
 
